@@ -1,4 +1,4 @@
----
+jdk---
 title: TypeScript
 category: Documentation
 mentions:
